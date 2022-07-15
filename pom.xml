@@ -44,6 +44,7 @@
                 <module>super-heroes/rest-fights</module>
                 <module>super-heroes/event-statistics</module>
                 <module>super-heroes/extension-version</module>
+                <module>super-heroes/rest-villains</module>
             </modules>
         </profile>
         <profile>
