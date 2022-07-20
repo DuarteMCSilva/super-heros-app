@@ -1,0 +1,1 @@
+mvn io.quarkus:quarkus-maven-plugin:2.9.2.Final:create -DprojectGroupId=io.quarkus.workshop.super-heroes -DprojectArtifactId=rest-heroes -DclassName="io.quarkus.workshop.superheroes.hero.HeroResource" -Dpath="api/heroes" -Dextensions="resteasy-reactive-jackson,quarkus-hibernate-validator,quarkus-smallrye-openapi,quarkus-hibernate-reactive-panache,quarkus-reactive-pg-client"
